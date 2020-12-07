@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Game Design Assignment 2
 
 You can use the [editor on GitHub](https://github.com/KeithButler-WIT/GameDesign-Assignment02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,9 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KeithButler-WIT/GameDesign-Assignment02/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Team
+The team making this game conists of Keith Butler, Ryan Egan and Daniel.
 
 ### Support or Contact
 
