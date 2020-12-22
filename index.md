@@ -1,8 +1,7 @@
-## Welcome to Game Design Assignment 2
+# The Box Within
 
-You can use the [editor on GitHub](https://github.com/KeithButler-WIT/GameDesign-Assignment02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a group assignment for the module Game Design.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
