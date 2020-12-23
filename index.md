@@ -23,6 +23,12 @@ Submitted 23-12-2020
 
 The team making this game conists of Keith Butler, Ryan Egan and Daniel.
 
+
+<!-- LICENSE -->
+### License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
 ### Support or Contact
 
 Keith -
