@@ -1,6 +1,6 @@
 # The Box Within
 
-This is a group assignment for the module Game Design.
+This is a group assignment for the Game Design module.  
 Submitted 23-12-2020
 
 ### Team
