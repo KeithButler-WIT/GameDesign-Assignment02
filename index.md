@@ -7,7 +7,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#team">Team</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#support or Contact">Contact</a></li>
+    <li><a href="#support or contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
