@@ -12,7 +12,7 @@
   </ol>
 </details>
 
-#About The Project
+# About The Project
 
 ## The Box Within
 
