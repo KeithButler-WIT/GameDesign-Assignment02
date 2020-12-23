@@ -31,8 +31,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Support or Contact
 
-Keith -
-Ryan -
-Daniel -
+Keith - [KeithButler-WIT](https://github.com/KeithButler-WIT)  
+Ryan - [RyanoEgan](https://github.com/RyanoEgan)  
+Daniel - [DLL19](https://github.com/DLL19)  
 
 Check out the repository [here](https://github.com/KeithButler-WIT/GameDesign-Assignment02/tree/main)
