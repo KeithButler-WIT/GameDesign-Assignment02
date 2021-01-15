@@ -14,9 +14,9 @@
 # About The Project
 
 ## View the various stages of development
-[Planning](https://github.com/KeithButler-WIT/GameDesign-Assignment01)
-[Prototype](https://github.com/KeithButler-WIT/GameDesign-Assignment02)
-[Final Build](https://github.com/KeithButler-WIT/GameDesign-Assignment01)
+- [Planning](https://github.com/KeithButler-WIT/GameDesign-Assignment01)  
+- [Prototype](https://github.com/KeithButler-WIT/GameDesign-Assignment02)  
+- [Final Build](https://github.com/KeithButler-WIT/GameDesign-Assignment01)  
 
 ## The Box Within
 
